@@ -1,0 +1,99 @@
+body {
+  background: #000;
+  color: $white;
+  font-size: 16px;
+  font-family: "Georgia", serif;
+  padding-bottom: 60px;
+  letter-spacing: .5px;
+}
+h1,h2,h3,h4,h5, h6, button {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+.unmargin {
+  margin: 0;
+}
+.unmargin-top {
+  margin-top: 0;
+}
+.unmargin-bottom {
+  margin-bottom: 0;
+}
+.block {
+  display: block;
+  padding: 30px 0;
+}
+.section {
+  padding: 60px 0;
+}
+.photo-container {
+  position: relative;
+  .photo {
+    border: 10px solid $white;
+  }
+}
+.photo-noise {
+  display: inline-block;
+  margin-top: -300px;
+  position: relative;
+  z-index: 1;
+}
+.logo {
+  display: inline-block;
+  margin-top: -500px;
+  z-index: 2;
+  position: relative;
+}
+.scroll-icon {
+  margin-top: -70px;
+}
+.video {
+  iframe {
+    width: 100%;
+    height: 400px;
+  }
+  h1 {
+    font-size: 48px;
+    margin-top: 0;
+  }
+}
+.album {
+  em {
+    margin-bottom: 10px;
+  }
+  em, a {
+    display: block;
+  }
+}
+.tour {
+  margin-top: -300px;
+  padding-top: 500px;
+  min-height: 700px;
+  background: url('../images/dates.png') no-repeat;
+}
+form {
+  p {
+    margin-bottom: -10px;
+  }
+  label {
+    display: block;
+  }
+  input, textarea, button {
+    background: #000;
+    border: $white;
+    color: #999;
+    font-style: italic;
+    border: 2px solid $white;
+    width: 100%;
+    padding: 10px 15px;
+  }
+  textarea {
+    height: 150px;
+  }
+  .wpcf7-submit {
+    background: $white;
+    color: #000;
+    width: auto;
+    margin-top: 10px;
+  }
+}
