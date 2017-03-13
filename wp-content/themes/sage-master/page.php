@@ -178,6 +178,57 @@
           <h2 class="section-title"><a href="https://www.dropbox.com/sh/v26boubrl1aji35/AADv1lG6qypjqDHtujha6Y-8a?dl=0">Descarga logotipo</a></h2>
         </div>
 
+
+
+        <div class="section">
+          <h2 class="section-title">Música</h2>
+          <div class="row">
+            <div class="col-sm-4">
+          <div class="media album">
+          <div class="media-left"><img src="<?php echo get_bloginfo('template_directory');?>/assets/images/album-2.png" alt="disco 1" /></div>
+          <div class="media-body">
+          <h5>Guardián</h5>
+          <em>2015</em>
+          <a href="https://open.spotify.com/album/2j4EBoJGKdSRkgPJY64DNH" target="_blank">Escuchar en spotify</a>
+          <a href="https://itunes.apple.com/mx/album/guardian/id1042513569" target="_blank">Comprar</a>
+
+          </div>
+          </div>
+
+
+
+            </div>
+            <div class="col-sm-4">
+
+          <div class="media album">
+          <div class="media-left"><img src="<?php echo get_bloginfo('template_directory');?>/assets/images/album-3.png" alt="disco 1" /></div>
+          <div class="media-body">
+          <h5>Tercer Solar</h5>
+          <em>2014</em>
+          <a href="https://open.spotify.com/album/1lxfTi3MA49kZXI8TP6OHd" target="_blank">Escuchar en spotify</a>
+          <a href="https://www.kichink.com/buy/897815/apolomx/tercer-solar" target="_blank">Comprar</a>
+
+          </div>
+          </div>
+
+</div>
+            <div class="col-sm-4">
+
+          <div class="media album">
+          <div class="media-left"><img src="<?php echo get_bloginfo('template_directory');?>/assets/images/album-1.png" alt="disco 1" /></div>
+          <div class="media-body">
+          <h5>Apolo EP</h5>
+          <em>2012</em>
+          <a href="https://open.spotify.com/album/2UOvnnJkly6Yjgk83RouA2" target="_blank">Escuchar en spotify</a>
+          <a href="https://www.kichink.com/buy/897818/apolomx/apolo-ep" target="_blank">Comprar</a>
+        </div>
+        </div>
+
+
+            </div>
+          </div>
+
+
         <div class="section text-center">
           <h2 class="section-title">
             Videos de Youtube
