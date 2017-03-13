@@ -10,3 +10,12 @@
 @import "layouts/header";
 @import "layouts/footer";
 @import "layouts/pages";
+
+@media (max-width: 768px) {
+  .logo {
+    margin-top: 0;
+  }
+  .scroll-icon {
+    display: none;
+  }
+}
